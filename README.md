@@ -7,8 +7,9 @@
 This project demonstrates how to control 8 relays using an ESP32 microcontroller, with both manual switches and cloud integration via the ESP RainMaker platform. The system provides real-time feedback, ensuring synchronization between physical switch operations and remote control, even in the absence of WiFi connectivity.
 
 ## Features  
-- **Control Options**: Relays can be operated manually or through the ESP RainMaker app.  
-- **Real-Time Feedback**: Updates relay state on the app and via physical switches in real time.  
+- **Control Options**: Devices can be operated manually or through the ESP RainMaker app avaliable for both Android and IOS.
+- **Integration With Popular Voice Assistants**: Devices Can Be Integrated With Google Assistant, Alexa, Siri
+- **Real-Time Feedback**: Updates Device state on the app and via physical switches in real time.  
 - **No WiFi Mode**: Operate relays manually when WiFi is unavailable.  
 - **Customizable**: Easy to adapt to different devices or configurations.  
 - **Secure Provisioning**: Secure WiFi provisioning using BLE or SoftAP.  
@@ -18,7 +19,6 @@ This project demonstrates how to control 8 relays using an ESP32 microcontroller
 2. **8-Channel Relay Module**  
 3. **Manual Toggle Switches**  
 4. **WiFi Network** (for ESP RainMaker functionality)  
-5. **Jump Wires and Breadboard**  
 
 ## Wiring Diagram  
 1. **Relay Connections**:  

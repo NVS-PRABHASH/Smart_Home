@@ -1,7 +1,7 @@
 /**********************************************************************************
  *  TITLE: ESP RainMaker + Manual Button control 8 Relays using ESP32 (Real time feedback)
  * 
- *  Copyright (c) 2024 MYTHASH
+ *  Copyright (c) 2024 NVS PRABHASH
  *  By NVS Prabhash
  *     N Manideep
  * 

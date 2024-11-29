@@ -30,9 +30,12 @@ This project demonstrates how to control 8 relays using an ESP32 microcontroller
    - Switch states are read from these pins.  
 
 3. **LED Indicators**:  
-   - GPIO 2 for WiFi status.  
+   - GPIO 2 for WiFi status.
+  
+4. **Circuit Diagram**:
 
-Refer to the code comments for additional pin configuration details.
+   ![Circuit Diagram](https://github.com/user-attachments/assets/81027c1c-bf2f-4cc1-8bb8-b98e1a560fa0)
+   Refer to the code comments for additional pin configuration details.
 
 ## Software Requirements  
 1. **Arduino IDE** (Configured for ESP32 development).  
